@@ -3,7 +3,7 @@
 <h3 align="center">A Fullstack developer from Moscow, Russia 🇷🇺</h3>
 
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
-<a href="https://www.codewars.com/" target="blank"><img alt="codewars" src="https://www.codewars.com/users/gysen/badges/small"></a>
+
 
 - 🌱 I’m currently learning **TypeScrit**
 
@@ -20,6 +20,7 @@
 <a href="https://t.me/gysen1" target="_blank"> <img alt="coding" height="30" src="https://badges.aleen42.com/src/telegram.svg"></a>
 <a href="https://instagram.com/gysen?igshid=YmMyMTA2M2Y=" target="_blank"><img alt="coding" height="30" src="https://badges.aleen42.com/src/instagram.svg"></a>
 <a href="https://www.facebook.com/dmborisenko" target="_blank"><img alt="coding" height="30" src="https://badges.aleen42.com/src/facebook.svg"></a>
+<a href="https://www.codewars.com/" target="blank"><img alt="codewars" src="https://www.codewars.com/users/gysen/badges/large"></a>
 
 <br>
 
