@@ -35,7 +35,7 @@
   <img alt="coding" height="30" src="https://badges.aleen42.com/src/webpack.svg">
 
   
-<details>
+<details align="right">
 <summary>More Skills</summary>
 <br>
   
