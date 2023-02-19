@@ -5,18 +5,18 @@
 
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
-<h3 align="left">Offers here:</h3>
-- 📫 dmitryborisenko.offers@gmail.com
+## 📫 Offers here:
+-  dmitryborisenko.offers@gmail.com
 
 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+## ⚙️ Contact with me:
+<a href="https://t.me/gysen1" target="_blank"> <img alt="coding" height="30" src="https://badges.aleen42.com/src/telegram.svg"></a>
 <a href="https://www.linkedin.com/in/dmitry-borisenko-9a8144128/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gysen" height="40" width="40" /></a>
 
 
-<a href="https://t.me/gysen1" target="_blank"> <img alt="coding" height="30" src="https://badges.aleen42.com/src/telegram.svg"></a>
+
 <a href="https://instagram.com/gysen?igshid=YmMyMTA2M2Y=" target="_blank"><img alt="coding" height="30" src="https://badges.aleen42.com/src/instagram.svg"></a>
 <a href="https://www.facebook.com/dmborisenko" target="_blank"><img alt="coding" height="30" src="https://badges.aleen42.com/src/facebook.svg"></a>
 <a href="https://www.codewars.com/" target="blank"><img alt="codewars" src="https://www.codewars.com/users/gysen/badges/large"></a>
