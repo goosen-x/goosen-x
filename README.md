@@ -22,6 +22,8 @@
 
 <br>
 
+[](https://badges.aleen42.com/src/lunkr.svg)
+
 ## ⚙️ Technology Stack:
 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
