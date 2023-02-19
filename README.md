@@ -13,7 +13,7 @@
 
 ## 💬 Contact with me:
 <a href="https://t.me/gysen1" target="_blank"> <img alt="coding" height="30" src="https://badges.aleen42.com/src/telegram.svg"></a>
-<a href="https://www.linkedin.com/in/dmitry-borisenko-9a8144128/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="gysen" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/dmitry-borisenko-9a8144128/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="gysen" height="30" /></a>
 
 
 
