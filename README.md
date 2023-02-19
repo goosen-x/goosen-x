@@ -14,7 +14,7 @@
 </div>
 <br>
 
-<img align="right" alt="coding" width="400" src="https://cdn-images-1.medium.com/max/1600/1*5fIUIzQrNVPBzeQZiLM27w.gif">
+<img align="right" alt="coding" width="600" src="https://cdn-images-1.medium.com/max/1600/1*5fIUIzQrNVPBzeQZiLM27w.gif">
 
 ## 🤘 About me:
 -  Recently, I pivoted my career to fullstack development due to my passion for programming.
