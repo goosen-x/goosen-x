@@ -45,15 +45,21 @@ https://badges.aleen42.com/src/facebook.svg
   
   <img alt="coding" height="30" src="https://badges.aleen42.com/src/github.svg">
   <br>
+  <br>
   <img alt="coding" height="30" src="https://badges.aleen42.com/src/gitlab.svg">
+  <br>
   <br>
   <img alt="coding" height="30" src="https://badges.aleen42.com/src/visual_studio_code.svg">
   <br>
+  <br>
   <img alt="coding" height="30" src="https://badges.aleen42.com/src/eslint.svg">
+  <br>
   <br>
   <img alt="coding" height="30" src="https://badges.aleen42.com/src/jest_1.svg">
   <br>
+  <br>
   <img alt="coding" height="30" src="https://badges.aleen42.com/src/npm.svg">
+  <br>
   <br>
   <img alt="coding" height="30" src="https://badges.aleen42.com/src/tailwindcss.svg">
   
