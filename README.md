@@ -2,10 +2,6 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">A Fullstack developer from Moscow, Russia 🇷🇺</h3>
 
-
-
-
-<h3 align="center">A frontend developer from Moscow</h3>
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 - 🌱 I’m currently learning **TypeScrit**
