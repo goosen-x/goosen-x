@@ -34,7 +34,6 @@ https://badges.aleen42.com/src/facebook.svg
   <img alt="coding" height="30" src="https://badges.aleen42.com/src/javascript.svg">
   <img alt="coding" height="30" src="https://badges.aleen42.com/src/node.svg">
   <img alt="coding" height="30" src="https://badges.aleen42.com/src/react.svg">
-  <img alt="coding" height="30" src="https://badges.aleen42.com/src/tailwindcss.svg">
   <img alt="coding" height="30" src="https://badges.aleen42.com/src/docker.svg">
   <img alt="coding" height="30" src="https://badges.aleen42.com/src/typescript.svg">
   <img alt="coding" height="30" src="https://badges.aleen42.com/src/webpack.svg">
@@ -45,11 +44,18 @@ https://badges.aleen42.com/src/facebook.svg
 <br>
   
   <img alt="coding" height="30" src="https://badges.aleen42.com/src/github.svg">
+  <br>
   <img alt="coding" height="30" src="https://badges.aleen42.com/src/gitlab.svg">
+  <br>
   <img alt="coding" height="30" src="https://badges.aleen42.com/src/visual_studio_code.svg">
+  <br>
   <img alt="coding" height="30" src="https://badges.aleen42.com/src/eslint.svg">
+  <br>
   <img alt="coding" height="30" src="https://badges.aleen42.com/src/jest_1.svg">
+  <br>
   <img alt="coding" height="30" src="https://badges.aleen42.com/src/npm.svg">
+  <br>
+  <img alt="coding" height="30" src="https://badges.aleen42.com/src/tailwindcss.svg">
   
 </details>
 
