@@ -3,7 +3,7 @@
 <h3 align="center">A Fullstack developer from Moscow, Russia 🇷🇺</h3>
 
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
-<a href="https://www.codewars.com/" target="blank"><img alt="codewars" src="https://www.codewars.com/users/gysen/badges/large"></a>
+<a href="https://www.codewars.com/" target="blank"><img alt="codewars" src="https://www.codewars.com/users/gysen/badges/small"></a>
 
 - 🌱 I’m currently learning **TypeScrit**
 
