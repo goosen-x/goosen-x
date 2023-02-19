@@ -18,11 +18,11 @@
 <a href="https://instagram.com/gysen?igshid=YmMyMTA2M2Y=" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@gorbadey_m" height="40" width="40" /></a>
 </p>
 
-https://badges.aleen42.com/src/telegram.svg
-https://badges.aleen42.com/src/discord.svg
-https://badges.aleen42.com/src/twitter.svg
-https://badges.aleen42.com/src/instagram.svg
-https://badges.aleen42.com/src/facebook.svg
+<img alt="coding" height="30" src="https://badges.aleen42.com/src/telegram.svg">
+<img alt="coding" height="30" src="https://badges.aleen42.com/src/discord.svg">
+<img alt="coding" height="30" src="https://badges.aleen42.com/src/twitter.svg">
+<img alt="coding" height="30" src="https://badges.aleen42.com/src/instagram.svg">
+<img alt="coding" height="30" src="https://badges.aleen42.com/src/facebook.svg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gysen-x&label=Profile%20views&color=0e75b6&style=flat" alt="gysen-x" /> </p>
 
