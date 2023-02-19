@@ -13,10 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://t.me/gysen1" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/800px-Telegram_2019_Logo.svg.png" alt="@gorbadey_m" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/dmitry-borisenko-9a8144128/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mikhail-gorbadey" height="40" width="40" /></a>
-<a href="https://instagram.com/gysen?igshid=YmMyMTA2M2Y=" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@gorbadey_m" height="40" width="40" /></a>
-</p>
+
 
 <a href="https://t.me/gysen1" target="_blank"> <img alt="coding" height="30" src="https://badges.aleen42.com/src/telegram.svg"></a>
 <a href="https://instagram.com/gysen?igshid=YmMyMTA2M2Y=" target="_blank"><img alt="coding" height="30" src="https://badges.aleen42.com/src/instagram.svg"></a>
@@ -72,7 +70,7 @@
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braydoncoyer&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<a href="https://github.com/braydoncoyer">
+<a align="right" href="https://github.com/braydoncoyer">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=braydoncoyer&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
 </a>
 
