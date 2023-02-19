@@ -5,17 +5,15 @@
 
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
-
-- 🌱 I’m currently learning **TypeScrit**
-
-- 📫 How to reach me: **brdima92@gmail.com / Telegram @gysen1**
+<h3 align="left">Offers here:</h3>
+- 📫 dmitryborisenko.offers@gmail.com
 
 
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/dmitry-borisenko-9a8144128/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mikhail-gorbadey" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/dmitry-borisenko-9a8144128/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gysen" height="40" width="40" /></a>
 
 
 <a href="https://t.me/gysen1" target="_blank"> <img alt="coding" height="30" src="https://badges.aleen42.com/src/telegram.svg"></a>
