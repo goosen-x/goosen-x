@@ -3,13 +3,14 @@
 <h3 align="center">A Fullstack developer from Moscow, Russia 🇷🇺</h3>
 
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+<a align="right" href="https://www.codewars.com/" target="blank"><img alt="codewars" src="https://www.codewars.com/users/gysen/badges/large"></a>
 
 - 🌱 I’m currently learning **TypeScrit**
 
 - 📫 How to reach me: **brdima92@gmail.com / Telegram @gysen1**
 
 
-<a href="https://www.codewars.com/" target="blank"><img alt="codewars" src="https://www.codewars.com/users/gysen/badges/large"></a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
