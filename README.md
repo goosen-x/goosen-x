@@ -6,8 +6,6 @@
 
 - 📫 How to reach me: **brdima92@gmail.com / Telegram @gysen1**
 
-- ⚡ Fun fact: **I can tell you what geosteering means**
-
 
 <a href="https://www.codewars.com/" target="blank"><img alt="codewars" src="https://www.codewars.com/users/gysen/badges/large"></a>
 
