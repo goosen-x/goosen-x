@@ -1,10 +1,10 @@
 <h1 align="center">Hello, I'm <a href="https://www.linkedin.com/in/dmitry-borisenko-9a8144128/" target="_blank">Dmitry Borisenko</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
+<h3 align="center">A Fullstack developer from Moscow, Russia 🇷🇺</h3>
 
 
 
-<h1 align="center">Hello, I'm Dmitry Borisenko 👋</h1>
+
 <h3 align="center">A frontend developer from Moscow</h3>
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
