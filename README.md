@@ -1,6 +1,7 @@
 <h1 align="center">Hello, I'm <a href="https://www.linkedin.com/in/dmitry-borisenko-9a8144128/" target="_blank">Dmitry Borisenko</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=A+Fullstack+developer+from+Russia)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=A+Fullstack+developer+from+Russia" alt="Typing SVG" /></a>
 <h3 align="center">A Fullstack developer from Moscow, Russia 🇷🇺</h3>
 
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
