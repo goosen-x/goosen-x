@@ -22,7 +22,7 @@
 
 <br>
 
-<img align="right" alt="coding" width="400" src="https://badges.aleen42.com/src/lunkr.svg">
+<img align="right" alt="coding" width="200" src="https://badges.aleen42.com/src/lunkr.svg">
 
 ## ⚙️ Technology Stack:
 
