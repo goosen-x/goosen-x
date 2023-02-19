@@ -25,7 +25,7 @@
 ## 👾 You can find me here:
 <a href="https://instagram.com/gysen?igshid=YmMyMTA2M2Y=" target="_blank"><img alt="coding" height="30" src="https://badges.aleen42.com/src/instagram.svg"></a>
 <a href="https://www.facebook.com/dmborisenko" target="_blank"><img alt="coding" height="30" src="https://badges.aleen42.com/src/facebook.svg"></a>
-<a href="https://www.codewars.com/" target="blank"><img alt="codewars" src="https://www.codewars.com/users/gysen/badges/large"></a>
+<a href="https://www.codewars.com/" target="blank"><img height=30 alt="codewars" src="https://www.codewars.com/users/gysen/badges/large"></a>
 
 <br>
 
