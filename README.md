@@ -26,15 +26,6 @@
 
 ## ⚙️ Technology Stack:
 
-  <img alt="coding" height="30" src="https://badges.aleen42.com/src/javascript.svg">
-  <img alt="coding" height="30" src="https://badges.aleen42.com/src/typescript.svg">
-  <img alt="coding" height="30" src="https://badges.aleen42.com/src/react.svg">
-  <img alt="coding" height="30" src="https://badges.aleen42.com/src/redux.svg">
-  <img alt="coding" height="30" src="https://badges.aleen42.com/src/node.svg">
-  <img alt="coding" height="30" src="https://badges.aleen42.com/src/docker.svg">
-  <img alt="coding" height="30" src="https://badges.aleen42.com/src/webpack.svg">
-
-  
 <details align="right">
 <summary>More Skills</summary>
 <br>
@@ -60,6 +51,17 @@
   <img alt="coding" height="30" src="https://badges.aleen42.com/src/tailwindcss.svg">
   
 </details>
+
+
+  <img alt="coding" height="30" src="https://badges.aleen42.com/src/javascript.svg">
+  <img alt="coding" height="30" src="https://badges.aleen42.com/src/typescript.svg">
+  <img alt="coding" height="30" src="https://badges.aleen42.com/src/react.svg">
+  <img alt="coding" height="30" src="https://badges.aleen42.com/src/redux.svg">
+  <img alt="coding" height="30" src="https://badges.aleen42.com/src/node.svg">
+  <img alt="coding" height="30" src="https://badges.aleen42.com/src/docker.svg">
+  <img alt="coding" height="30" src="https://badges.aleen42.com/src/webpack.svg">
+
+  
 
 <br>
 
