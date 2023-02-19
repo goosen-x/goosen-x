@@ -16,6 +16,9 @@
 
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
+## 🤘 About me:
+-  Recently, I pivoted my career to fullstack development due to my passion for programming.
+
 ## 📫 Offers here:
 -  dmitryborisenko.offers@gmail.com
 
