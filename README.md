@@ -3,13 +3,13 @@
 <h3 align="center">A Fullstack developer from Moscow, Russia 🇷🇺</h3>
 <div id="socials" align="center">
 	<a href="https://www.linkedin.com/in/dmitry-borisenko-9a8144128/">
-		<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 	</a>
 	<a href="https://twitter.com/Brsnk_Dmtr">
-		<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+		<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
 	</a>
 	<a href="https://t.me/gysen1">
-		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+		<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 	</a>
 </div>
 <br>
@@ -20,6 +20,7 @@
 -  Recently, I pivoted my career to fullstack development due to my passion for programming.
 
 ## 📫 Offers:
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 -  dmitryborisenko.offers@gmail.com
 
 ## 👾 You can find me here:
