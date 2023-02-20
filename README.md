@@ -33,14 +33,12 @@ https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoCol
 
 ## ⚙️ Technology Stack:
 
-  <img alt="coding" height="30" src="https://badges.aleen42.com/src/javascript.svg">
-  <img alt="coding" height="30" src="https://badges.aleen42.com/src/typescript.svg">
-  <img alt="coding" height="30" src="https://badges.aleen42.com/src/react.svg">
-  <img alt="coding" height="30" src="https://badges.aleen42.com/src/redux.svg">
-  <img alt="coding" height="30" src="https://badges.aleen42.com/src/node.svg">
-  <img alt="coding" height="30" src="https://badges.aleen42.com/src/docker.svg">
-  <img alt="coding" height="30" src="https://badges.aleen42.com/src/webpack.svg">
-
+  <img alt="coding" height="30" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img alt="coding" height="30" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img alt="coding" height="30" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img alt="coding" height="30" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
+  <img alt="coding" height="30" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+  <img alt="coding" height="30" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   
   <details>
 <summary>📎 More Skills</summary>
@@ -58,7 +56,7 @@ https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoCol
   <img alt="coding" height="30" src="https://badges.aleen42.com/src/eslint.svg">
   <br>
   <br>
-  <img alt="coding" height="30" src="https://badges.aleen42.com/src/jest_1.svg">
+  <img alt="coding" height="30" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white">
   <br>
   <br>
   <img alt="coding" height="30" src="https://badges.aleen42.com/src/npm.svg">
