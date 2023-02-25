@@ -42,7 +42,7 @@
   <img alt="coding" height="30" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
   
   <details>
-<summary><h3>📎 More Skills</h3></summary>
+<summary><h2>📎 More Skills</h3></summary>
 <br>
   <h3>📐 Markup</h3>
   <img alt="coding" height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
