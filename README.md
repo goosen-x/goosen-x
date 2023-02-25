@@ -44,7 +44,7 @@
   <details>
 <summary><h3>📎 More Skills</h3></summary>
 <br>
-  <h3>Markup</h3>
+  <h3>📐 Markup</h3>
   <img alt="coding" height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <br>
   <img alt="coding" height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -55,26 +55,26 @@
   <br>
   <img alt="coding" height="30" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <br>
-  <h3>Server & sessions</h3>
+  <h3>👨‍💻 Server & sessions</h3>
   <img alt="coding" height="30" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
   <br>
   <img alt="coding" height="30" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink">
   <br>
-  <h3>Databases</h3>
+  <h3>🗄 Databases</h3>
   <img alt="coding" height="30" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <br>
   <img alt="coding" height="30" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white">
   <br>
   <img alt="coding" height="30" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
   <br>
-  <h3>Test & Linters</h3>
+  <h3>🔩 Test & Linters</h3>
   <img alt="coding" height="30" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white">
   <br>
   <img alt="coding" height="30" src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white">
   <br>
   <img alt="coding" height="30" src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E">
   <br>
-  <h3>Design</h3>
+  <h3>🎨 Design</h3>
   <img alt="coding" height="30" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
   <br>
   <img alt="coding" height="30" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
