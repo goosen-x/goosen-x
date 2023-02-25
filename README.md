@@ -58,9 +58,9 @@
   <img alt="coding" height="30" src="https://img.shields.io/badge/Bootstrap-53B5CA?style=for-the-badge&logo=bootstrap&logoColor=355981">
   <br>
   <h3>👨‍💻 Server & Sessions</h3>
-  <img alt="coding" height="30" src="https://img.shields.io/badge/Express.js-355981?style=for-the-badge&logoColor=563D7C&logo=express&logoColor=53B5CA">
+  <img alt="coding" height="30" src="https://img.shields.io/badge/Express.js-355981?style=for-the-badge&logo=express&logoColor=53B5CA">
   <br>
-  <img alt="coding" height="30" src="https://img.shields.io/badge/Express_sessions-355981?style=for-the-badge&logoColor=563D7C&logo=express&logoColor=53B5CA">
+  <img alt="coding" height="30" src="https://img.shields.io/badge/Express_sessions-355981?style=for-the-badge&logo=express&logoColor=53B5CA">
   <br>
   <img alt="coding" height="30" src="https://img.shields.io/badge/json%20web%20tokens-355981?style=for-the-badge&logo=json-web-tokens&logoColor=53B5CA">
   <br>
