@@ -60,9 +60,9 @@
   <h3>👨‍💻 Server & Sessions</h3>
   <img alt="coding" height="30" src="https://img.shields.io/badge/Express.js-355981?style=for-the-badge&logoColor=563D7C">
   <br>
-  <img alt="coding" height="30" src="https://img.shields.io/badge/Express-sessions-355981?style=for-the-badge&logoColor=563D7C">
+  <img alt="coding" height="30" src="https://img.shields.io/badge/Express_sessions-355981?style=for-the-badge&logoColor=563D7C">
   <br>
-  <img alt="coding" height="30" src="https://img.shields.io/badge/json%20web%20tokens-355981?style=for-the-badge&logo=json-web-tokens&logoColor=563D7C">
+  <img alt="coding" height="30" src="https://img.shields.io/badge/json%20web%20tokens-355981?style=for-the-badge&logo=json-web-tokens">
   <br>
   <h3>🗄 Databases</h3>
   <img alt="coding" height="30" src="https://img.shields.io/badge/PostgreSQL-53B5CA?style=for-the-badge&logo=postgresql&logoColor=355981">
