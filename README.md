@@ -27,6 +27,7 @@
 
 ## 👾 You can find me here:
 <a href="https://instagram.com/gysen?igshid=YmMyMTA2M2Y=" target="_blank"><img alt="coding" height="30" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<br>
 <a href="https://www.facebook.com/dmborisenko" target="_blank"><img alt="coding" height="30" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 <br>
 <br>
