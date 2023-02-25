@@ -55,7 +55,7 @@
   <br>
   <img alt="coding" height="30" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <br>
-  <h3>👨‍💻 Server & sessions</h3>
+  <h3>👨‍💻 Server & Sessions</h3>
   <img alt="coding" height="30" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
   <br>
   <img alt="coding" height="30" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink">
