@@ -1,5 +1,4 @@
-<h1 align="center">Hello, I'm <a href="https://www.linkedin.com/in/dmitry-borisenko-9a8144128/" target="_blank">Dmitry Borisenko</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">Hello, I'm <a href="https://www.linkedin.com/in/dmitry-borisenko-9a8144128/" target="_blank">Dmitry Borisenko</a></h1>
 <div id="socials" align="center">
 	<a href="https://www.linkedin.com/in/dmitry-borisenko-9a8144128/">
 		<img src="https://img.shields.io/badge/LinkedIn-53B5CA?style=for-the-badge&logo=linkedin&logoColor=355981" alt="LinkedIn"/>
@@ -15,7 +14,7 @@
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/29/5d/ba/295dba78f8e4148215611aab4e03f93a.gif">
 
-## 🤘 About me:
+## <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> About me:
 -  A Fullstack developer from Moscow, Russia
 -  Recently, I pivoted my career to fullstack development due to my passion for programming.
 
@@ -57,7 +56,7 @@
   <br>
   <img alt="coding" height="30" src="https://img.shields.io/badge/Bootstrap-53B5CA?style=for-the-badge&logo=bootstrap&logoColor=355981">
   <br>
-  <h3>👨‍💻 Server & Sessions</h3>
+  <h3>💾 Server & Sessions</h3>
   <img alt="coding" height="30" src="https://img.shields.io/badge/Express.js-355981?style=for-the-badge&logo=express&logoColor=53B5CA">
   <br>
   <img alt="coding" height="30" src="https://img.shields.io/badge/Express_sessions-355981?style=for-the-badge&logo=express&logoColor=53B5CA">
