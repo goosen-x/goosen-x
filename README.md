@@ -1,6 +1,5 @@
 <h1 align="center">Hello, I'm <a href="https://www.linkedin.com/in/dmitry-borisenko-9a8144128/" target="_blank">Dmitry Borisenko</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">A Fullstack developer from Moscow, Russia 🇷🇺</h3>
 <div id="socials" align="center">
 	<a href="https://www.linkedin.com/in/dmitry-borisenko-9a8144128/">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -17,6 +16,7 @@
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/29/5d/ba/295dba78f8e4148215611aab4e03f93a.gif">
 
 ## 🤘 About me:
+-  A Fullstack developer from Moscow, Russia
 -  Recently, I pivoted my career to fullstack development due to my passion for programming.
 
 ## 📫 Offers:
