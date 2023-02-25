@@ -99,28 +99,7 @@
   <img alt="coding" height="30" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
   <br>
   <br>
-  <img alt="coding" height="30" src="1">
-  <br>
-  <br>
-  <img alt="coding" height="30" src="1">
-  <br>
-  <br>
-  <img alt="coding" height="30" src="1">
-  <br>
-  <br>
-  <img alt="coding" height="30" src="1">
-  <br>
-  <br>
-  <img alt="coding" height="30" src="1">
-  <br>
-  <br
-  <img alt="coding" height="30" src="1">
-  <br>
-  <br
-
-	
-	
-	
+  
   
 </details>
 
