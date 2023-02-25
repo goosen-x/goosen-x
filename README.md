@@ -65,8 +65,6 @@
   <br>
   <img alt="coding" height="30" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white">
   <br>
-  <img alt="coding" height="30" src="https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue">
-  <br>
   <img alt="coding" height="30" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
   <br>
   <h3>Test & Linters</h3>
@@ -78,7 +76,6 @@
   <br>
   <h3>Design</h3>
   <img alt="coding" height="30" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-  <br>
   <br>
   <img alt="coding" height="30" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
   <br>
