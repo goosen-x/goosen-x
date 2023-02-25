@@ -58,7 +58,7 @@
   <h3>Server & sessions</h3>
   <img alt="coding" height="30" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
   <br>
-  <img alt="coding" height="30" src="https://img.shields.io/badge/Express-sessions?style=for-the-badge">
+  <img alt="coding" height="30" src="https://img.shields.io/badge/Express-sessions?style=for-the-badge&logo=postgresql&logoColor=white">
   <br>
   <img alt="coding" height="30" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink">
   <br>
