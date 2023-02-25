@@ -20,10 +20,10 @@
 -  Recently, I pivoted my career to fullstack development due to my passion for programming.
 
 ## 📫 Offers:
-<a href="/" target="_blank">
+<h2>
 	<img alt="coding" height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">              
-	<strong>dmitryborisenko.offers@gmail.com</strong>
-</a> 
+	<a href="/" target="_blank">dmitryborisenko.offers@gmail.com</a>
+</h2> 
 
 ## 👾 You can find me here:
 <a href="https://instagram.com/gysen?igshid=YmMyMTA2M2Y=" target="_blank"><img alt="coding" height="30" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
