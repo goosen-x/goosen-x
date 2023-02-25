@@ -2,13 +2,13 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <div id="socials" align="center">
 	<a href="https://www.linkedin.com/in/dmitry-borisenko-9a8144128/">
-		<img src="https://img.shields.io/badge/LinkedIn-4BA5BE?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+		<img src="https://img.shields.io/badge/LinkedIn-355981?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 	</a>
 	<a href="https://twitter.com/Brsnk_Dmtr">
-		<img src="https://img.shields.io/badge/Twitter-4BA5BE?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+		<img src="https://img.shields.io/badge/Twitter-355981?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
 	</a>
 	<a href="https://t.me/gysen1">
-		<img src="https://img.shields.io/badge/Telegram-4BA5BE?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+		<img src="https://img.shields.io/badge/Telegram-355981?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 	</a>
 </div>
 <br>
