@@ -47,15 +47,15 @@
 <summary><h2>📎 More Skills</h3></summary>
 <br>
   <h3>📐 Markup</h3>
-  <img alt="coding" height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img alt="coding" height="30" src="https://img.shields.io/badge/HTML5-53B5CA?style=for-the-badge&logo=html5&logoColor=355981">
   <br>
-  <img alt="coding" height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img alt="coding" height="30" src="https://img.shields.io/badge/CSS3-53B5CA?style=for-the-badge&logo=css3&logoColor=355981">
   <br>
-  <img alt="coding" height="30" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+  <img alt="coding" height="30" src="https://img.shields.io/badge/Sass-53B5CA?style=for-the-badge&logo=sass&logoColor=355981">
   <br>
-  <img alt="coding" height="30" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img alt="coding" height="30" src="https://img.shields.io/badge/Tailwind_CSS-53B5CA?style=for-the-badge&logo=tailwind-css&logoColor=355981">
   <br>
-  <img alt="coding" height="30" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img alt="coding" height="30" src="https://img.shields.io/badge/Bootstrap-53B5CA?style=for-the-badge&logo=bootstrap&logoColor=355981">
   <br>
   <h3>👨‍💻 Server & Sessions</h3>
   <img alt="coding" height="30" src="https://img.shields.io/badge/Express.js-355981?style=for-the-badge&logoColor=563D7C">
@@ -65,25 +65,25 @@
   <img alt="coding" height="30" src="https://img.shields.io/badge/json%20web%20tokens-355981?style=for-the-badge&logo=json-web-tokens&logoColor=563D7C">
   <br>
   <h3>🗄 Databases</h3>
-  <img alt="coding" height="30" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img alt="coding" height="30" src="https://img.shields.io/badge/PostgreSQL-53B5CA?style=for-the-badge&logo=postgresql&logoColor=355981">
   <br>
-  <img alt="coding" height="30" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white">
+  <img alt="coding" height="30" src="https://img.shields.io/badge/Sequelize-53B5CA?style=for-the-badge&logo=Sequelize&logoColor=355981">
   <br>
-  <img alt="coding" height="30" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img alt="coding" height="30" src="https://img.shields.io/badge/MongoDB-53B5CA?style=for-the-badge&logo=mongodb&logoColor=355981">
   <br>
   <h3>🔩 Test & Linters</h3>
-  <img alt="coding" height="30" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white">
+  <img alt="coding" height="30" src="https://img.shields.io/badge/Jest-355981?style=for-the-badge&logo=Jest&logoColor=53B5CA">
   <br>
-  <img alt="coding" height="30" src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white">
+  <img alt="coding" height="30" src="https://img.shields.io/badge/eslint-355981?style=for-the-badge&logo=eslint&logoColor=53B5CA">
   <br>
-  <img alt="coding" height="30" src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E">
+  <img alt="coding" height="30" src="https://img.shields.io/badge/prettier-355981?style=for-the-badge&logo=prettier&logoColor=53B5CA">
   <br>
   <h3>🎨 Design</h3>
-  <img alt="coding" height="30" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <img alt="coding" height="30" src="https://img.shields.io/badge/Figma-53B5CA?style=for-the-badge&logo=figma&logoColor=355981">
   <br>
-  <img alt="coding" height="30" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
+  <img alt="coding" height="30" src="https://img.shields.io/badge/Adobe%20Photoshop-53B5CA?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=355981">
   <br>
-  <img alt="coding" height="30" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white">
+  <img alt="coding" height="30" src="https://img.shields.io/badge/Microsoft_PowerPoint-53B5CA?style=for-the-badge&logo=microsoft-powerpoint&logoColor=355981">
  
 </details>
 
