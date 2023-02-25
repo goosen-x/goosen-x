@@ -20,15 +20,15 @@
 -  Recently, I pivoted my career to fullstack development due to my passion for programming.
 
 ## 📫 Offers:
-<img alt="coding" height="30" src="https://img.shields.io/badge/Gmail-355981?style=for-the-badge&logo=gmail&logoColor=white">              
+<img alt="coding" height="30" src="https://img.shields.io/badge/Gmail-355981?style=for-the-badge&logo=gmail&logoColor=53B5CA">              
 <a href="/" target="_blank">dmitryborisenko.offers@gmail.com</a>
 
 ## 👾 You can find me here:
-<a href="https://instagram.com/gysen?igshid=YmMyMTA2M2Y=" target="_blank"><img alt="coding" height="30" src="https://img.shields.io/badge/Instagram-53B5CA?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://instagram.com/gysen?igshid=YmMyMTA2M2Y=" target="_blank"><img alt="coding" height="30" src="https://img.shields.io/badge/Instagram-53B5CA?style=for-the-badge&logo=instagram&logoColor=355981"></a>
 <br>
-<a href="https://www.facebook.com/dmborisenko" target="_blank"><img alt="coding" height="30" src="https://img.shields.io/badge/Facebook-53B5CA?style=for-the-badge&logo=facebook&logoColor=white"></a>
+<a href="https://www.facebook.com/dmborisenko" target="_blank"><img alt="coding" height="30" src="https://img.shields.io/badge/Facebook-53B5CA?style=for-the-badge&logo=facebook&logoColor=355981"></a>
 <br>
-<a href="https://www.facebook.com/dmborisenko" target="_blank"><img alt="coding" height="30" src="https://img.shields.io/badge/Codewars-53B5CA?style=for-the-badge&logo=Codewars&logoColor=white"></a>
+<a href="https://www.facebook.com/dmborisenko" target="_blank"><img alt="coding" height="30" src="https://img.shields.io/badge/Codewars-53B5CA?style=for-the-badge&logo=Codewars&logoColor=355981"></a>
 <a href="https://www.codewars.com/" target="blank"><img height=30 alt="codewars" src="https://www.codewars.com/users/gysen/badges/large"></a>
 
 <br>
@@ -36,12 +36,12 @@
 
 ## ⚙️ Technology Stack:
 
-  <img alt="coding" height="30" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img alt="coding" height="30" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  <img alt="coding" height="30" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img alt="coding" height="30" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
-  <img alt="coding" height="30" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-  <img alt="coding" height="30" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+  <img alt="coding" height="30" src="https://img.shields.io/badge/JavaScript-355981?style=for-the-badge&logo=javascript&logoColor=53B5CA">
+  <img alt="coding" height="30" src="https://img.shields.io/badge/TypeScript-355981?style=for-the-badge&logo=typescript&logoColor=53B5CA">
+  <img alt="coding" height="30" src="https://img.shields.io/badge/React-355981?style=for-the-badge&logo=react&logoColor=53B5CA">
+  <img alt="coding" height="30" src="https://img.shields.io/badge/Redux-355981?style=for-the-badge&logo=redux&logoColor=53B5CA">
+  <img alt="coding" height="30" src="https://img.shields.io/badge/Node.js-355981?style=for-the-badge&logo=node.js&logoColor=53B5CA">
+  <img alt="coding" height="30" src="https://img.shields.io/badge/GIT-355981?style=for-the-badge&logo=git&logoColor=53B5CA">
   
   <details>
 <summary><h2>📎 More Skills</h3></summary>
