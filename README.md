@@ -22,7 +22,7 @@
 ## 📫 Offers:
 <a href="/" target="_blank">
 	<img alt="coding" height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">              
-	<h3>dmitryborisenko.offers@gmail.com</h3>
+	<strong>dmitryborisenko.offers@gmail.com</strong>
 </a> 
 
 ## 👾 You can find me here:
