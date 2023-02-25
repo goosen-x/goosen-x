@@ -69,7 +69,34 @@
   <img alt="coding" height="30" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white">
   <br>
   <br>
-  <img alt="coding" height="30" src="1">
+  <img alt="coding" height="30" src="https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue">
+  <br>
+  <br>
+  <img alt="coding" height="30" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink">
+  <br>
+  <br>
+  <img alt="coding" height="30" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white">
+  <br>
+  <br>
+  <img alt="coding" height="30" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+  <br>
+  <br>
+  <img alt="coding" height="30" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <br>
+  <br>
+  <img alt="coding" height="30" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
+  <br>
+  <br>
+  <img alt="coding" height="30" src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white">
+  <br>
+  <br>
+  <img alt="coding" height="30" src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E">
+  <br>
+  <br>
+  <img alt="coding" height="30" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white">
+  <br>
+  <br>
+  <img alt="coding" height="30" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
   <br>
   <br>
   <img alt="coding" height="30" src="1">
@@ -86,8 +113,14 @@
   <br>
   <img alt="coding" height="30" src="1">
   <br>
+  <br
+  <img alt="coding" height="30" src="1">
   <br>
+  <br
 
+	
+	
+	
   
 </details>
 
