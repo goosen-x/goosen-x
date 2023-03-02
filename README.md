@@ -14,6 +14,7 @@
 
 <div align="right">
   <img alt="coding" width="400" src="https://i.pinimg.com/originals/29/5d/ba/295dba78f8e4148215611aab4e03f93a.gif">
+<br>
   <a href="https://www.codewars.com/" target="blank"><img height=30 alt="codewars" src="https://www.codewars.com/users/gysen/badges/large"></a>
 </div>
 	
