@@ -36,7 +36,6 @@
 ## ⚙️ Technology Stack:
 
   <img alt="coding" height="30" src="https://img.shields.io/badge/JavaScript-355981?style=for-the-badge&logo=javascript&logoColor=53B5CA">
-  <img alt="coding" height="30" src="https://img.shields.io/badge/TypeScript-355981?style=for-the-badge&logo=typescript&logoColor=53B5CA">
   <img alt="coding" height="30" src="https://img.shields.io/badge/React-355981?style=for-the-badge&logo=react&logoColor=53B5CA">
   <img alt="coding" height="30" src="https://img.shields.io/badge/Redux-355981?style=for-the-badge&logo=redux&logoColor=53B5CA">
   <img alt="coding" height="30" src="https://img.shields.io/badge/Node.js-355981?style=for-the-badge&logo=node.js&logoColor=53B5CA">
