@@ -20,7 +20,7 @@
 
 ## 📫 Offers:
 <img alt="coding" height="30" src="https://img.shields.io/badge/Gmail-355981?style=for-the-badge&logo=gmail&logoColor=53B5CA">              
-<a href="/" target="_blank">dmitryborisenko.offers@gmail.com</a>
+<a href="/" target="_blank">dmitryborisenko.msk@gmail.com</a>
 
 ## 👤 Find me here:
 <a href="https://instagram.com/gysen?igshid=YmMyMTA2M2Y=" target="_blank"><img alt="coding" height="30" src="https://img.shields.io/badge/Instagram-53B5CA?style=for-the-badge&logo=instagram&logoColor=355981"></a>
