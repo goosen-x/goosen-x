@@ -86,6 +86,11 @@
   <br>
   <h3>💻 Other</h3>
   <img alt="coding" height="30" src="https://img.shields.io/badge/GIT-355981?style=for-the-badge&logo=git&logoColor=53B5CA">
+  <br>
+  <img alt="coding" height="30" src="https://img.shields.io/badge/GITHUB-355981?style=for-the-badge&logo=github&logoColor=53B5CA">
+  <br>
+  <img alt="coding" height="30" src="https://img.shields.io/badge/GITLAB-355981?style=for-the-badge&logo=gitlab&logoColor=53B5CA">
+  <br>
  
 </details>
 
