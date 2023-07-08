@@ -6,7 +6,7 @@
 	<a href="https://twitter.com/Brsnk_Dmtr">
 		<img src="https://img.shields.io/badge/Twitter-53B5CA?style=for-the-badge&logo=twitter&logoColor=355981" alt="Twitter"/>
 	</a>
-	<a href="https://t.me/gysen1">
+	<a href="https://t.me/borisenko_dmitry">
 		<img src="https://img.shields.io/badge/Telegram-53B5CA?style=for-the-badge&logo=telegram&logoColor=355981" alt="Telegram"/>
 	</a>
 </div>
@@ -15,7 +15,7 @@
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/29/5d/ba/295dba78f8e4148215611aab4e03f93a.gif">	
 	
 ## <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> About me:
--  A Frontend developer from Moscow, Russia
+-  Fullstack developer from Moscow, Russia
 -  Recently, I pivoted my career to fullstack development due to my passion for programming.
 
 ## 📫 Offers:
@@ -38,8 +38,8 @@
   <img alt="coding" height="30" src="https://img.shields.io/badge/JavaScript-355981?style=for-the-badge&logo=javascript&logoColor=53B5CA">
   <img alt="coding" height="30" src="https://img.shields.io/badge/React-355981?style=for-the-badge&logo=react&logoColor=53B5CA">
   <img alt="coding" height="30" src="https://img.shields.io/badge/Redux-355981?style=for-the-badge&logo=redux&logoColor=53B5CA">
+  <img alt="coding" height="30" src="https://img.shields.io/badge/Next.js-355981?style=for-the-badge&next.js=git&logoColor=53B5CA">
   <img alt="coding" height="30" src="https://img.shields.io/badge/Node.js-355981?style=for-the-badge&logo=node.js&logoColor=53B5CA">
-  <img alt="coding" height="30" src="https://img.shields.io/badge/GIT-355981?style=for-the-badge&logo=git&logoColor=53B5CA">
   
   <details>
 <summary><h2>📎 More Skills</h3></summary>
@@ -69,6 +69,8 @@
   <br>
   <img alt="coding" height="30" src="https://img.shields.io/badge/MongoDB-53B5CA?style=for-the-badge&logo=mongodb&logoColor=355981">
   <br>
+  <img alt="coding" height="30" src="https://img.shields.io/badge/Strapi-53B5CA?style=for-the-badge&logo=strapi&logoColor=355981">
+  <br>
   <h3>🔩 Test & Linters</h3>
   <img alt="coding" height="30" src="https://img.shields.io/badge/Jest-355981?style=for-the-badge&logo=Jest&logoColor=53B5CA">
   <br>
@@ -82,6 +84,8 @@
   <img alt="coding" height="30" src="https://img.shields.io/badge/Adobe%20Photoshop-53B5CA?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=355981">
   <br>
   <img alt="coding" height="30" src="https://img.shields.io/badge/Microsoft_PowerPoint-53B5CA?style=for-the-badge&logo=microsoft-powerpoint&logoColor=355981">
+  <h3>💻 Other</h3>
+  <img alt="coding" height="30" src="https://img.shields.io/badge/GIT-355981?style=for-the-badge&logo=git&logoColor=53B5CA">
  
 </details>
 
