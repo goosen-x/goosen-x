@@ -83,7 +83,6 @@
   <br>
   <img alt="coding" height="30" src="https://img.shields.io/badge/Adobe%20Photoshop-53B5CA?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=355981">
   <br>
-  <img alt="coding" height="30" src="https://img.shields.io/badge/Microsoft_PowerPoint-53B5CA?style=for-the-badge&logo=microsoft-powerpoint&logoColor=355981">
   <h3>💻 Other</h3>
   <img alt="coding" height="30" src="https://img.shields.io/badge/GIT-355981?style=for-the-badge&logo=git&logoColor=53B5CA">
  
