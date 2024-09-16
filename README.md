@@ -15,6 +15,9 @@
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/29/5d/ba/295dba78f8e4148215611aab4e03f93a.gif">	
 	
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> 
+
+
+<br>
 <strong style='font-size: 32px'>About me:</strong>
 <br>
 -  Fullstack developer from Moscow, Russia who is deeply passionate about creating interactive and appealing web interfaces.
