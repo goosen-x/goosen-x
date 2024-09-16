@@ -18,7 +18,7 @@
 
 
 <br>
-<strong style='font-size: 32px'>About me:</strong>
+<font size="100px">About me:</font>
 <br>
 -  Fullstack developer from Moscow, Russia who is deeply passionate about creating interactive and appealing web interfaces.
 -  My love for coding and design enables me to craft amazing user interfaces that captivate the eye and deliver a seamless user experience.
