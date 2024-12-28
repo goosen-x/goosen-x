@@ -76,7 +76,7 @@
 <img alt="coding" height="30" src="https://img.shields.io/badge/Adobe%20Photoshop-53B5CA?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=355981">
   <br>
   <h3>💻 Other</h3>
-  <div id="socials" align="center">
+  <div id="socials" align="left">
 <img alt="coding" height="30" src="https://img.shields.io/badge/GIT-355981?style=for-the-badge&logo=git&logoColor=53B5CA">
 <img alt="coding" height="30" src="https://img.shields.io/badge/GITHUB-355981?style=for-the-badge&logo=github&logoColor=53B5CA">
 <img alt="coding" height="30" src="https://img.shields.io/badge/GITLAB-355981?style=for-the-badge&logo=gitlab&logoColor=53B5CA">
