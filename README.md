@@ -1,34 +1,21 @@
 <h1 align="center">Hello, I'm <a href="https://www.linkedin.com/in/dmitry-borisenko-9a8144128/" target="_blank">Dmitry Borisenko</a>!</h1>
 <div id="socials" align="center">
-	<a href="https://www.linkedin.com/in/dmitry-borisenko-9a8144128/" target="_blank">
-		<img src="https://img.shields.io/badge/LinkedIn-53B5CA?style=for-the-badge&logo=linkedin&logoColor=355981" alt="LinkedIn"/>
-	</a>
-	<a href="https://twitter.com/Brsnk_Dmtr">
-		<img src="https://img.shields.io/badge/Twitter-53B5CA?style=for-the-badge&logo=twitter&logoColor=355981" alt="Twitter"/>
-	</a>
-	<a href="https://t.me/borisenko_dmitry">
-		<img src="https://img.shields.io/badge/Telegram-53B5CA?style=for-the-badge&logo=telegram&logoColor=355981" alt="Telegram"/>
-	</a>
+<a href="https://www.linkedin.com/in/dmitry-borisenko-9a8144128/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-53B5CA?style=for-the-badge&logo=linkedin&logoColor=355981" alt="LinkedIn"/></a>
+<a href="https://twitter.com/Brsnk_Dmtr"><img src="https://img.shields.io/badge/Twitter-53B5CA?style=for-the-badge&logo=twitter&logoColor=355981" alt="Twitter"/></a>
+<a href="https://t.me/borisenko_dmitry"><img src="https://img.shields.io/badge/Telegram-53B5CA?style=for-the-badge&logo=telegram&logoColor=355981" alt="Telegram"/></a>
 </div>
 <br>
-
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/29/5d/ba/295dba78f8e4148215611aab4e03f93a.gif">	
-	
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/29/5d/ba/295dba78f8e4148215611aab4e03f93a.gif">		
 <strong><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="16"/>About me:</strong>
 <br>
 -  Fullstack developer from Moscow, Russia who is deeply passionate about creating interactive and appealing web interfaces.
 -  My love for coding and design enables me to craft amazing user interfaces that captivate the eye and deliver a seamless user experience.
 -  My drive for perfection motivates me to explore the latest technologies and trends in web development, keeping me up to date with the most recent innovations.
 -  I think creatively and possess the ability to find elegant solutions to complex problems.
-
 <br>
 <strong style="font-size: 32px">📫 Offers:</strong> <br>
-
-
 <img alt="coding" height="30" src="https://img.shields.io/badge/Gmail-355981?style=for-the-badge&logo=gmail&logoColor=53B5CA">              
-<a href="/" target="_blank">dmitryborisenko.msk@gmail.com</a>
-
-
+<a href="mailto:dmitryborisenko.msk@gmail.com&body=привет?subject=вопрос">dmitryborisenko.msk@gmail.com</a>
 ## 👤 Find me here:
   <div id="socials" align="left">
 <a href="https://instagram.com/gysen?igshid=YmMyMTA2M2Y=" target="blank"><img alt="coding" height="30" src="https://img.shields.io/badge/Instagram-53B5CA?style=for-the-badge&logo=instagram&logoColor=355981"></a>
