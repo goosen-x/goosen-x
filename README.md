@@ -40,7 +40,8 @@
 
 ## ⚙️ Technology Stack:
 
-  <img alt="coding" height="30" src="https://img.shields.io/badge/JavaScript-355981?style=for-the-badge&logo=javascript&logoColor=53B5CA"><img alt="coding" height="30" src="https://img.shields.io/badge/TypeScript-355981?style=for-the-badge&logo=typescript&logoColor=53B5CA">
+  <img alt="coding" height="30" src="https://img.shields.io/badge/JavaScript-355981?style=for-the-badge&logo=javascript&logoColor=53B5CA">
+  <img alt="coding" height="30" src="https://img.shields.io/badge/TypeScript-355981?style=for-the-badge&logo=typescript&logoColor=53B5CA">
   <img alt="coding" height="30" src="https://img.shields.io/badge/React-355981?style=for-the-badge&logo=react&logoColor=53B5CA">
   <img alt="coding" height="30" src="https://img.shields.io/badge/Redux-355981?style=for-the-badge&logo=redux&logoColor=53B5CA">
   <img alt="coding" height="30" src="https://img.shields.io/badge/Next.js-355981?style=for-the-badge&logo=next.js&logoColor=53B5CA">
@@ -49,33 +50,33 @@
 <h2>📎 More Skills</h3>
 <br>
   <h3>📐 Markup</h3>
-  <img alt="coding" height="30" src="https://img.shields.io/badge/HTML5-53B5CA?style=for-the-badge&logo=html5&logoColor=355981">
-  <img alt="coding" height="30" src="https://img.shields.io/badge/CSS3-53B5CA?style=for-the-badge&logo=css3&logoColor=355981">
-  <img alt="coding" height="30" src="https://img.shields.io/badge/Sass-53B5CA?style=for-the-badge&logo=sass&logoColor=355981">
-  <img alt="coding" height="30" src="https://img.shields.io/badge/Tailwind_CSS-53B5CA?style=for-the-badge&logo=tailwind-css&logoColor=355981">
-  <img alt="coding" height="30" src="https://img.shields.io/badge/Bootstrap-53B5CA?style=for-the-badge&logo=bootstrap&logoColor=355981">
+<img alt="coding" height="30" src="https://img.shields.io/badge/HTML5-53B5CA?style=for-the-badge&logo=html5&logoColor=355981">
+<img alt="coding" height="30" src="https://img.shields.io/badge/CSS3-53B5CA?style=for-the-badge&logo=css3&logoColor=355981">
+<img alt="coding" height="30" src="https://img.shields.io/badge/Sass-53B5CA?style=for-the-badge&logo=sass&logoColor=355981">
+<img alt="coding" height="30" src="https://img.shields.io/badge/Tailwind_CSS-53B5CA?style=for-the-badge&logo=tailwind-css&logoColor=355981">
+<img alt="coding" height="30" src="https://img.shields.io/badge/Bootstrap-53B5CA?style=for-the-badge&logo=bootstrap&logoColor=355981">
   <br>
   <h3>💾 Server & Sessions</h3>
-  <img alt="coding" height="30" src="https://img.shields.io/badge/Express.js-355981?style=for-the-badge&logo=express&logoColor=53B5CA">
-  <img alt="coding" height="30" src="https://img.shields.io/badge/Express_sessions-355981?style=for-the-badge&logo=express&logoColor=53B5CA">
-  <img alt="coding" height="30" src="https://img.shields.io/badge/json%20web%20tokens-355981?style=for-the-badge&logo=json-web-tokens&logoColor=53B5CA">
+<img alt="coding" height="30" src="https://img.shields.io/badge/Express.js-355981?style=for-the-badge&logo=express&logoColor=53B5CA">
+<img alt="coding" height="30" src="https://img.shields.io/badge/Express_sessions-355981?style=for-the-badge&logo=express&logoColor=53B5CA">
+<img alt="coding" height="30" src="https://img.shields.io/badge/json%20web%20tokens-355981?style=for-the-badge&logo=json-web-tokens&logoColor=53B5CA">
   <br>
   <h3>🗄 Databases</h3>
-  <img alt="coding" height="30" src="https://img.shields.io/badge/PostgreSQL-53B5CA?style=for-the-badge&logo=postgresql&logoColor=355981">
-  <img alt="coding" height="30" src="https://img.shields.io/badge/Sequelize-53B5CA?style=for-the-badge&logo=Sequelize&logoColor=355981">
-  <img alt="coding" height="30" src="https://img.shields.io/badge/MongoDB-53B5CA?style=for-the-badge&logo=mongodb&logoColor=355981">
-  <img alt="coding" height="30" src="https://img.shields.io/badge/Strapi-53B5CA?style=for-the-badge&logo=strapi&logoColor=355981">
+<img alt="coding" height="30" src="https://img.shields.io/badge/PostgreSQL-53B5CA?style=for-the-badge&logo=postgresql&logoColor=355981">
+<img alt="coding" height="30" src="https://img.shields.io/badge/Sequelize-53B5CA?style=for-the-badge&logo=Sequelize&logoColor=355981">
+<img alt="coding" height="30" src="https://img.shields.io/badge/MongoDB-53B5CA?style=for-the-badge&logo=mongodb&logoColor=355981">
+<img alt="coding" height="30" src="https://img.shields.io/badge/Strapi-53B5CA?style=for-the-badge&logo=strapi&logoColor=355981">
   <h3>🔩 Test & Linters</h3>
-  <img alt="coding" height="30" src="https://img.shields.io/badge/Jest-355981?style=for-the-badge&logo=Jest&logoColor=53B5CA">
-  <img alt="coding" height="30" src="https://img.shields.io/badge/eslint-355981?style=for-the-badge&logo=eslint&logoColor=53B5CA">
-  <img alt="coding" height="30" src="https://img.shields.io/badge/prettier-355981?style=for-the-badge&logo=prettier&logoColor=53B5CA">
+<img alt="coding" height="30" src="https://img.shields.io/badge/Jest-355981?style=for-the-badge&logo=Jest&logoColor=53B5CA">
+<img alt="coding" height="30" src="https://img.shields.io/badge/eslint-355981?style=for-the-badge&logo=eslint&logoColor=53B5CA">
+<img alt="coding" height="30" src="https://img.shields.io/badge/prettier-355981?style=for-the-badge&logo=prettier&logoColor=53B5CA">
   <br>
   <h3>🎨 Design</h3>
-  <img alt="coding" height="30" src="https://img.shields.io/badge/Figma-53B5CA?style=for-the-badge&logo=figma&logoColor=355981">
-  <img alt="coding" height="30" src="https://img.shields.io/badge/Adobe%20Photoshop-53B5CA?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=355981">
+<img alt="coding" height="30" src="https://img.shields.io/badge/Figma-53B5CA?style=for-the-badge&logo=figma&logoColor=355981">
+<img alt="coding" height="30" src="https://img.shields.io/badge/Adobe%20Photoshop-53B5CA?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=355981">
   <br>
   <h3>💻 Other</h3>
-  <img alt="coding" height="30" src="https://img.shields.io/badge/GIT-355981?style=for-the-badge&logo=git&logoColor=53B5CA">
-  <img alt="coding" height="30" src="https://img.shields.io/badge/GITHUB-355981?style=for-the-badge&logo=github&logoColor=53B5CA">
-  <img alt="coding" height="30" src="https://img.shields.io/badge/GITLAB-355981?style=for-the-badge&logo=gitlab&logoColor=53B5CA">
+<img alt="coding" height="30" src="https://img.shields.io/badge/GIT-355981?style=for-the-badge&logo=git&logoColor=53B5CA">
+<img alt="coding" height="30" src="https://img.shields.io/badge/GITHUB-355981?style=for-the-badge&logo=github&logoColor=53B5CA">
+<img alt="coding" height="30" src="https://img.shields.io/badge/GITLAB-355981?style=for-the-badge&logo=gitlab&logoColor=53B5CA">
   <br>
