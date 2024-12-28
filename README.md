@@ -49,7 +49,7 @@
   <img alt="coding" height="30" src="https://img.shields.io/badge/Redux-355981?style=for-the-badge&logo=redux&logoColor=53B5CA">
   <img alt="coding" height="30" src="https://img.shields.io/badge/Next.js-355981?style=for-the-badge&logo=next.js&logoColor=53B5CA">
   <img alt="coding" height="30" src="https://img.shields.io/badge/Node.js-355981?style=for-the-badge&logo=node.js&logoColor=53B5CA">
-    <div id="socials" align="left">
+  </div>
 
 <br>
   <h3>📐 Markup</h3>
@@ -80,12 +80,6 @@
 <img alt="coding" height="30" src="https://img.shields.io/badge/Jest-355981?style=for-the-badge&logo=Jest&logoColor=53B5CA">
 <img alt="coding" height="30" src="https://img.shields.io/badge/eslint-355981?style=for-the-badge&logo=eslint&logoColor=53B5CA">
 <img alt="coding" height="30" src="https://img.shields.io/badge/prettier-355981?style=for-the-badge&logo=prettier&logoColor=53B5CA">
-    </div>
-  <br>
-  <h3>🎨 Design</h3>
-    <div id="socials" align="left">
-<img alt="coding" height="30" src="https://img.shields.io/badge/Figma-53B5CA?style=for-the-badge&logo=figma&logoColor=355981">
-<img alt="coding" height="30" src="https://img.shields.io/badge/Adobe%20Photoshop-53B5CA?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=355981">
     </div>
   <br>
   <h3>💻 Other</h3>
