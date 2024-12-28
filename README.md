@@ -22,7 +22,7 @@
 -  I think creatively and possess the ability to find elegant solutions to complex problems.
 
 <br>
-<strong style='font-size: 32px'>📫 Offers:</strong> <br>
+<strong style="font-size: 32px">📫 Offers:</strong> <br>
 
 <img alt="coding" height="30" src="https://img.shields.io/badge/Gmail-355981?style=for-the-badge&logo=gmail&logoColor=53B5CA">              
 <a href="/" target="_blank">dmitryborisenko.msk@gmail.com</a>
@@ -76,7 +76,5 @@
 <img alt="coding" height="30" src="https://img.shields.io/badge/Adobe%20Photoshop-53B5CA?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=355981">
   <br>
   <h3>💻 Other</h3>
-<img alt="coding" height="30" src="https://img.shields.io/badge/GIT-355981?style=for-the-badge&logo=git&logoColor=53B5CA">
-<img alt="coding" height="30" src="https://img.shields.io/badge/GITHUB-355981?style=for-the-badge&logo=github&logoColor=53B5CA">
-<img alt="coding" height="30" src="https://img.shields.io/badge/GITLAB-355981?style=for-the-badge&logo=gitlab&logoColor=53B5CA">
+<img alt="coding" height="30" src="https://img.shields.io/badge/GIT-355981?style=for-the-badge&logo=git&logoColor=53B5CA"><img alt="coding" height="30" src="https://img.shields.io/badge/GITHUB-355981?style=for-the-badge&logo=github&logoColor=53B5CA"><img alt="coding" height="30" src="https://img.shields.io/badge/GITLAB-355981?style=for-the-badge&logo=gitlab&logoColor=53B5CA">
   <br>
