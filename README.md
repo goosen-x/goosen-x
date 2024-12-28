@@ -11,10 +11,10 @@
 <strong><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="16"/>About me:</strong>
 
 <br>
--  Fullstack developer from Moscow, Russia who is deeply passionate about creating interactive and appealing web interfaces.
--  My love for coding and design enables me to craft amazing user interfaces that captivate the eye and deliver a seamless user experience.
--  My drive for perfection motivates me to explore the latest technologies and trends in web development, keeping me up to date with the most recent innovations.
--  I think creatively and possess the ability to find elegant solutions to complex problems.
+  -  Fullstack developer from Moscow, Russia who is deeply passionate about creating interactive and appealing web interfaces.
+  -  My love for coding and design enables me to craft amazing user interfaces that captivate the eye and deliver a seamless user experience.
+  -  My drive for perfection motivates me to explore the latest technologies and trends in web development, keeping me up to date with the most recent innovations.
+  -  I think creatively and possess the ability to find elegant solutions to complex problems.
 <br>
 
 <strong style="font-size: 32px">📫 Offers:</strong> <br>
