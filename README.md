@@ -13,9 +13,13 @@
 -  My drive for perfection motivates me to explore the latest technologies and trends in web development, keeping me up to date with the most recent innovations.
 -  I think creatively and possess the ability to find elegant solutions to complex problems.
 <br>
+
 <strong style="font-size: 32px">📫 Offers:</strong> <br>
+
 <img alt="coding" height="30" src="https://img.shields.io/badge/Gmail-355981?style=for-the-badge&logo=gmail&logoColor=53B5CA">              
 <a href="mailto:dmitryborisenko.msk@gmail.com&body=привет?subject=вопрос">dmitryborisenko.msk@gmail.com</a>
+
+
 ## 👤 Find me here:
   <div id="socials" align="left">
 <a href="https://instagram.com/gysen?igshid=YmMyMTA2M2Y=" target="blank"><img alt="coding" height="30" src="https://img.shields.io/badge/Instagram-53B5CA?style=for-the-badge&logo=instagram&logoColor=355981"></a>
