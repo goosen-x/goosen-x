@@ -24,10 +24,10 @@
 <br>
 <strong style="font-size: 32px">📫 Offers:</strong> <br>
 
-  <div id="socials" align="left">
+
 <img alt="coding" height="30" src="https://img.shields.io/badge/Gmail-355981?style=for-the-badge&logo=gmail&logoColor=53B5CA">              
 <a href="/" target="_blank">dmitryborisenko.msk@gmail.com</a>
-  </div>
+
 
 ## 👤 Find me here:
   <div id="socials" align="left">
@@ -36,8 +36,8 @@
 <a href="https://www.facebook.com/dmborisenko" target="_blank"><img alt="coding" height="30" src="https://img.shields.io/badge/Facebook-53B5CA?style=for-the-badge&logo=facebook&logoColor=355981"></a>
 <br>
 <a href="https://www.facebook.com/dmborisenko" target="_blank"><img alt="coding" height="30" src="https://img.shields.io/badge/Codewars-53B5CA?style=for-the-badge&logo=Codewars&logoColor=355981"></a>
-<a href="https://www.codewars.com/" target="blank"><img height=30 alt="codewars" src="https://www.codewars.com/users/gysen/badges/large"></a>
   </div>
+<a href="https://www.codewars.com/" target="blank"><img height=30 alt="codewars" src="https://www.codewars.com/users/gysen/badges/large"></a>
 <br>
 
 ## ⚙️ Technology Stack:
@@ -51,7 +51,6 @@
   <img alt="coding" height="30" src="https://img.shields.io/badge/Node.js-355981?style=for-the-badge&logo=node.js&logoColor=53B5CA">
     <div id="socials" align="left">
 
-<h2>📎 More Skills</h3>
 <br>
   <h3>📐 Markup</h3>
     <div id="socials" align="left">
