@@ -33,15 +33,9 @@
   <div id="socials" align="left">
 <a href="https://instagram.com/gysen?igshid=YmMyMTA2M2Y=" target="_blank"><img alt="coding" height="30" src="https://img.shields.io/badge/Instagram-53B5CA?style=for-the-badge&logo=instagram&logoColor=355981"></a>
 <a href="https://www.facebook.com/dmborisenko" target="_blank"><img alt="coding" height="30" src="https://img.shields.io/badge/Facebook-53B5CA?style=for-the-badge&logo=facebook&logoColor=355981"></a>
-<a href="https://www.linkedin.com/in/dmitry-borisenko-9a8144128/" target="_blank">
-		<img src="https://img.shields.io/badge/LinkedIn-53B5CA?style=for-the-badge&logo=linkedin&logoColor=355981" alt="LinkedIn"/>
-	</a>
-	<a href="https://twitter.com/Brsnk_Dmtr">
-		<img src="https://img.shields.io/badge/Twitter-53B5CA?style=for-the-badge&logo=twitter&logoColor=355981" alt="Twitter"/>
-	</a>
-	<a href="https://t.me/borisenko_dmitry">
-		<img src="https://img.shields.io/badge/Telegram-53B5CA?style=for-the-badge&logo=telegram&logoColor=355981" alt="Telegram"/>
-	</a>
+<a href="https://www.linkedin.com/in/dmitry-borisenko-9a8144128/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-53B5CA?style=for-the-badge&logo=linkedin&logoColor=355981" alt="LinkedIn"/></a>
+<a href="https://twitter.com/Brsnk_Dmtr"><img src="https://img.shields.io/badge/Twitter-53B5CA?style=for-the-badge&logo=twitter&logoColor=355981" alt="Twitter"/></a>
+<a href="https://t.me/borisenko_dmitry"><img src="https://img.shields.io/badge/Telegram-53B5CA?style=for-the-badge&logo=telegram&logoColor=355981" alt="Telegram"/></a>
   </div>
 <a href="https://www.facebook.com/dmborisenko" target="_blank"><img alt="coding" height="30" src="https://img.shields.io/badge/Codewars-53B5CA?style=for-the-badge&logo=Codewars&logoColor=355981"></a>
 <a href="https://www.codewars.com/" target="blank"><img height=30 alt="codewars" src="https://www.codewars.com/users/gysen/badges/large"></a>
