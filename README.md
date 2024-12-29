@@ -33,7 +33,7 @@
 
 ## 👤 Find me here:
 <div>
-<a href="https://www.goosen.pro"><img height="30" src="https://img.shields.io/badge/website-355981?style=for-the-badge&logo=virustotal&logoColor=53B5CA" alt="Website"/></a>
+<a href="https://www.goosen.pro" target="blank"><img height="30" src="https://img.shields.io/badge/website-355981?style=for-the-badge&logo=virustotal&logoColor=53B5CA" alt="Website"/></a>
 <a href="https://instagram.com/gysen?igshid=YmMyMTA2M2Y="><img alt="coding" height="30" src="https://img.shields.io/badge/Instagram-53B5CA?style=for-the-badge&logo=instagram&logoColor=355981"></a>
 <a href="https://www.facebook.com/dmborisenko"><img alt="coding" height="30" src="https://img.shields.io/badge/Facebook-53B5CA?style=for-the-badge&logo=facebook&logoColor=355981"></a>
 <a href="https://www.linkedin.com/in/dmitry-borisenko-9a8144128/"><img height="30" src="https://img.shields.io/badge/LinkedIn-53B5CA?style=for-the-badge&logo=linkedin&logoColor=355981" alt="LinkedIn"/></a>
