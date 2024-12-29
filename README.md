@@ -5,7 +5,7 @@
 <a href="https://t.me/borisenko_dmitry"><img src="https://img.shields.io/badge/Telegram-53B5CA?style=for-the-badge&logo=telegram&logoColor=355981" alt="Telegram"/></a>
 </div>
 <div align="center">
-<a href="https://www.goosen.pro"><img src="https://img.shields.io/badge/   Visit my website   -355981?style=for-the-badge&logo=web&logoColor=53B5CA" alt="Website"/></a>
+<a href="https://www.goosen.pro"><img src="https://img.shields.io/badge/Visit my website-355981?style=for-the-badge&logo=virustotal&logoColor=53B5CA" alt="Website"/></a>
 </div>
 <br>
 
