@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm <a href="https://www.goosen.pro">Dmitry Borisenko</a>!</h1>
 <div align="center">
-<a href="https://www.goosen.pro"><img src="https://img.shields.io/badge/LinkedIn-53B5CA?style=for-the-badge&logo=linkedin&logoColor=355981" alt="Website"/></a>
+<a href="https://www.goosen.pro"><img src="https://img.shields.io/badge/Visit my website-53B5CA?style=for-the-badge&logo=web&logoColor=355981" alt="Website"/></a>
 </div>
 <div align="center">
 <a href="https://www.linkedin.com/in/dmitry-borisenko-9a8144128/"><img src="https://img.shields.io/badge/LinkedIn-53B5CA?style=for-the-badge&logo=linkedin&logoColor=355981" alt="LinkedIn"/></a>
