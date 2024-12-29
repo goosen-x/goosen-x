@@ -1,4 +1,5 @@
-<h1 align="center">Hello, I'm <a href="https://www.linkedin.com/in/dmitry-borisenko-9a8144128/">Dmitry Borisenko</a>!</h1>
+<h1 align="center">Hello, I'm <a href="https://www.goosen.pro">Dmitry Borisenko</a>!</h1>
+<a href="https://www.goosen.pro" align="center">Visit my website</a>
 <div align="center">
 <a href="https://www.linkedin.com/in/dmitry-borisenko-9a8144128/"><img src="https://img.shields.io/badge/LinkedIn-53B5CA?style=for-the-badge&logo=linkedin&logoColor=355981" alt="LinkedIn"/></a>
 <a href="https://twitter.com/Brsnk_Dmtr"><img src="https://img.shields.io/badge/Twitter-53B5CA?style=for-the-badge&logo=x&logoColor=355981" alt="X"/></a>
@@ -30,9 +31,9 @@
 
 ## 👤 Find me here:
 <div>
-<a href="https://instagram.com/gysen?igshid=YmMyMTA2M2Y=" target="blank"><img alt="coding" height="30" src="https://img.shields.io/badge/Instagram-53B5CA?style=for-the-badge&logo=instagram&logoColor=355981"></a>
-<a href="https://www.facebook.com/dmborisenko" target="_blank"><img alt="coding" height="30" src="https://img.shields.io/badge/Facebook-53B5CA?style=for-the-badge&logo=facebook&logoColor=355981"></a>
-<a href="https://www.linkedin.com/in/dmitry-borisenko-9a8144128/" target="_blank"><img height="30" src="https://img.shields.io/badge/LinkedIn-53B5CA?style=for-the-badge&logo=linkedin&logoColor=355981" alt="LinkedIn"/></a>
+<a href="https://instagram.com/gysen?igshid=YmMyMTA2M2Y="><img alt="coding" height="30" src="https://img.shields.io/badge/Instagram-53B5CA?style=for-the-badge&logo=instagram&logoColor=355981"></a>
+<a href="https://www.facebook.com/dmborisenko"><img alt="coding" height="30" src="https://img.shields.io/badge/Facebook-53B5CA?style=for-the-badge&logo=facebook&logoColor=355981"></a>
+<a href="https://www.linkedin.com/in/dmitry-borisenko-9a8144128/"><img height="30" src="https://img.shields.io/badge/LinkedIn-53B5CA?style=for-the-badge&logo=linkedin&logoColor=355981" alt="LinkedIn"/></a>
 <a href="https://twitter.com/Brsnk_Dmtr"><img height="30" src="https://img.shields.io/badge/Twitter-53B5CA?style=for-the-badge&logo=x&logoColor=355981" alt="Twitter"/></a>
 <a href="https://t.me/borisenko_dmitry"><img height="30" src="https://img.shields.io/badge/Telegram-53B5CA?style=for-the-badge&logo=telegram&logoColor=355981" alt="Telegram"/></a>
 </div>
