@@ -45,14 +45,14 @@
 <br>
   <h3>Frontend</h3>
   
-  <div id="socials" align="left">
-  <img alt="coding" height="30" src="https://img.shields.io/badge/JavaScript-355981?style=for-the-badge&logo=javascript&logoColor=53B5CA">
-  <img alt="coding" height="30" src="https://img.shields.io/badge/TypeScript-355981?style=for-the-badge&logo=typescript&logoColor=53B5CA">
-  <img alt="coding" height="30" src="https://img.shields.io/badge/React-355981?style=for-the-badge&logo=react&logoColor=53B5CA">
-  <img alt="coding" height="30" src="https://img.shields.io/badge/Redux-355981?style=for-the-badge&logo=redux&logoColor=53B5CA">
-  <img alt="coding" height="30" src="https://img.shields.io/badge/Next.js-355981?style=for-the-badge&logo=next.js&logoColor=53B5CA">
-  <img alt="coding" height="30" src="https://img.shields.io/badge/Node.js-355981?style=for-the-badge&logo=node.js&logoColor=53B5CA">
-  </div>
+    <div id="socials" align="left">
+<img alt="coding" height="30" src="https://img.shields.io/badge/JavaScript-355981?style=for-the-badge&logo=javascript&logoColor=53B5CA">
+<img alt="coding" height="30" src="https://img.shields.io/badge/TypeScript-355981?style=for-the-badge&logo=typescript&logoColor=53B5CA">
+<img alt="coding" height="30" src="https://img.shields.io/badge/React-355981?style=for-the-badge&logo=react&logoColor=53B5CA">
+<img alt="coding" height="30" src="https://img.shields.io/badge/Redux-355981?style=for-the-badge&logo=redux&logoColor=53B5CA">
+<img alt="coding" height="30" src="https://img.shields.io/badge/Next.js-355981?style=for-the-badge&logo=next.js&logoColor=53B5CA">
+<img alt="coding" height="30" src="https://img.shields.io/badge/Node.js-355981?style=for-the-badge&logo=node.js&logoColor=53B5CA">
+    </div>
 
     <div id="socials" align="right">
 <img alt="coding" height="30" src="https://img.shields.io/badge/HTML5-53B5CA?style=for-the-badge&logo=html5&logoColor=355981">
