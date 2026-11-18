@@ -3,6 +3,7 @@
 <a href="https://www.linkedin.com/in/dmitry-borisenko-9a8144128/"><img src="https://img.shields.io/badge/LinkedIn-53B5CA?style=for-the-badge&logo=linkedin&logoColor=355981" alt="LinkedIn"/></a>
 <a href="https://x.com/goose_labs"><img src="https://img.shields.io/badge/X-53B5CA?style=for-the-badge&logo=x&logoColor=355981" alt="X"/></a>
 <a href="https://t.me/borisenko_dmitry"><img src="https://img.shields.io/badge/Telegram-53B5CA?style=for-the-badge&logo=telegram&logoColor=355981" alt="Telegram"/></a>
+<a href="https://css.moscow/speakers/dmitry-borisenko/"><img src="https://img.shields.io/badge/Moscow CSS speaker-53B5CA?style=for-the-badge&logo=css&logoColor=355981" alt="Moscow CSS speaker"/></a>
 </div>
 <div align="center">
 <a href="https://portfolio.gooselabs.ru"><img src="https://img.shields.io/badge/Visit my website-355981?style=for-the-badge&logo=virustotal&logoColor=53B5CA" alt="Website"/></a>
@@ -39,6 +40,7 @@
 <a href="https://www.linkedin.com/in/dmitry-borisenko-9a8144128/"><img height="30" src="https://img.shields.io/badge/LinkedIn-53B5CA?style=for-the-badge&logo=linkedin&logoColor=355981" alt="LinkedIn"/></a>
 <a href="https://x.com/goose_labs"><img height="30" src="https://img.shields.io/badge/X-53B5CA?style=for-the-badge&logo=x&logoColor=355981" alt="X"/></a>
 <a href="https://t.me/borisenko_dmitry"><img height="30" src="https://img.shields.io/badge/Telegram-53B5CA?style=for-the-badge&logo=telegram&logoColor=355981" alt="Telegram"/></a>
+<a href="https://css.moscow/speakers/dmitry-borisenko/"><img height="30" src="https://img.shields.io/badge/Moscow CSS speaker-53B5CA?style=for-the-badge&logo=css&logoColor=355981" alt="Moscow CSS speaker"/></a>
 </div>
 <a href="https://www.facebook.com/dmborisenko"><img alt="coding" height="30" src="https://img.shields.io/badge/Codewars-355981?style=for-the-badge&logo=Codewars&logoColor=53B5CA"></a>
 <a href="https://www.codewars.com/"><img height=30 alt="codewars" src="https://www.codewars.com/users/gysen/badges/large"></a>
